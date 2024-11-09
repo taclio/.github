@@ -25,7 +25,7 @@ For detailed guides and advanced use cases, check our [documentation](https://do
 - Connect with us on [LinkedIn](https://www.linkedin.com/company/taclio)
 - Follow us on [Twitter](https://x.com/tacl_io)
 - Check our tutorials on [Youtube](https://www.youtube.com/@taclio)
-- Join our community and share your thoughts and knowledge [Discord](https://discord.gg/adWDTEjc)
+- Join our community and share your thoughts and knowledge [Discord](https://discord.gg/qw6DqkZ4VR)
 
 ## 🛠️ Contributing
 We love contributions! If you’re interested in improving tacl.io or sharing ideas, feel free to:
